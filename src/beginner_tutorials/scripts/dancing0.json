@@ -1,0 +1,389 @@
+{
+    "@metadata": {
+        "author": "PLEN Robotics Inc, and all authors.", 
+        "required-firmware": "x.x.x~", 
+        "target": "PLENCube"
+    }, 
+    "frames": [
+        {
+            "@index": 0,
+            "head": true,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 12.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": 0.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 1,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 1.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": 0.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 2,
+            "head": true,
+            "rotate" : false,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 12.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": -14.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": 60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 3,
+            "head": true,
+            "rotate" : false,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 1.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": -60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 4,
+            "head": true,
+            "rotate" : false,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 12.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": -14.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": -60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 5,
+            "head": true,
+            "rotate" : false,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 1.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": 60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 6,
+            "head": true,
+            "rotate" : false,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 12.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": -14.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": 60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 7,
+            "head": true,
+            "rotate" : false,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 1.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": -60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 8, 
+            "head": true,
+            "rotate" : false,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 12.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": -14.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": -60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 9,
+            "head": true,
+            "rotate" : false,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 1.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": 60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 10,
+            "head": true,
+            "rotate" : false, 
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 12.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": -14.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": 60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 11,
+            "head": true,
+            "rotate" : false,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 1.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": -60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 12,
+            "head": true,
+            "rotate" : false, 
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 12.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": -14.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": -60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 13,
+            "head": true,
+            "rotate" : false, 
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 1.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": 60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 14,
+            "head": true,
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 1.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": 60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        },
+        {
+            "@index": 15, 
+            "outputs": [
+                {
+                    "device": "head_height", 
+                    "value": 12.0
+                }, 
+                {
+                    "device": "head_roll_axis", 
+                    "value": 0.0
+                }, 
+                {
+                    "device": "head_pitch_axis", 
+                    "value": -8.0
+                }, 
+                {
+                    "device": "head_yaw_axis", 
+                    "value": 60.0
+                }
+            ], 
+            "transition_time_ms": 400.0
+        }
+    ], 
+    "name": "dancing0", 
+    "slot": 0
+}
